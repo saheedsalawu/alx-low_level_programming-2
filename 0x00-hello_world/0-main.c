@@ -7,6 +7,8 @@
  */
 int main(void)
 {
-	printf("Holberton School");
+	printf("export CFILE=0-main.c ; ./0-preprocessor");
 	return (0);
 }
+
+export CFILE=0-main.c ; ./0-preprocessor
