@@ -46,5 +46,3 @@ void print_times_table(int n)
 		a++;
 	}
 }
-Footer
-© 2022 GitHub
